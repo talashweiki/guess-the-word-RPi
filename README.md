@@ -31,4 +31,4 @@ When you start the game, it will prompt you to choose the category of words you 
 
 ### How to make/code it :
 * The code : 
-[click here](test(1).py)
+[click here](test_(1).py)
